@@ -11,10 +11,16 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  geolocator: ^7.6.2
+  http: ^0.13.3
+  flutter_spinkit: ^5.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  pedantic_mono: 1.13.0+3
+  dart_code_metrics: 4.0.1
 
 flutter:
   uses-material-design: true
